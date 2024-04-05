@@ -1,0 +1,21 @@
+body {
+    background: rgb(43, 130, 181);
+    background: linear-gradient(0deg, rgba(43, 130, 181, 1) 0%, rgba(91, 198, 252, 1) 100%);
+    background-attachment: fixed;
+    font-family: 'Lexend', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #2C2C2C;
+    font-size: 4em;
+}
+
+main {
+    background-color: #f2f2f2;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5em;
+    
+}
